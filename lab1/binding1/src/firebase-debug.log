@@ -1,0 +1,25 @@
+[debug] [2023-09-18T16:27:38.449Z] ----------------------------------------------------------------------
+[debug] [2023-09-18T16:27:38.451Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\anton\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-09-18T16:27:38.452Z] CLI Version:   12.5.4
+[debug] [2023-09-18T16:27:38.452Z] Platform:      win32
+[debug] [2023-09-18T16:27:38.453Z] Node Version:  v18.16.0
+[debug] [2023-09-18T16:27:38.454Z] Time:          Mon Sep 18 2023 19:27:38 GMT+0300 (за східноєвропейським літнім часом)
+[debug] [2023-09-18T16:27:38.454Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-09-18T16:27:38.464Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-09-18T16:27:38.464Z] > authorizing via signed-in user (anton.chaban@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Study\4course\1sem\reactive_programming\binding1\src
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
