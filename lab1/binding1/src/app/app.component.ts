@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
-  template: `<p>Ім'я: {{name}}</p>
+  template: `<p>Ім'я: {{name_2}}</p>
   <p>Вік: {{age}}</p>
   <input type="text" [value]="name"/><br/>
   <input type="text" [value]="age"/>
@@ -29,6 +29,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   name = 'Tom';
+  name_2 = 'Tom';
   age = 25;
   colspan = 2;
   count: number = 0;
